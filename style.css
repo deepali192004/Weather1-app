@@ -17,6 +17,17 @@ body{
     padding: 40px 35px;
     text-align: center;
 }
+.headline{
+    font-size: 30px;
+    font-weight: 600;
+    color: white;
+    margin-bottom: 20px;
+    text-align: center;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+
+}
+
 .search{
     width: 100%;
     display: flexbox;
@@ -95,4 +106,5 @@ body{
     font-size: 14px;
     margin-top: 10px;
     display: none;
+
 }
